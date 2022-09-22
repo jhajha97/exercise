@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp\htdocs\interview-exercise\resources\views/index.blade.php ENDPATH**/ ?>
